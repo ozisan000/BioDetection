@@ -7,7 +7,7 @@
  * bio
  */
 //% weight=100 color=#0fbc11 icon=""
-namespace BioDetection {
+namespace projectleaf {
     let checkPos = world(3, 0, 31)
     // デバッグ用
     let lockPos = world(-5, -14, 23)
