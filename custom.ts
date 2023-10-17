@@ -6,7 +6,7 @@
 /**
  * bio
  */
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#ff69b4 icon="〷"
 namespace biomolecular {
     let checkPos = world(3, 0, 31)
     // デバッグ用
